@@ -1,8 +1,5 @@
 # 🗂️ FilePilot
 
-[![Build Status](https://github.com/filepilot/filepilot-backend/actions/workflows/main.yml/badge.svg)](https://github.com/filepilot/filepilot-backend/actions)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-
 FilePilot is a full-stack **document version control system** for the web. It allows users to upload, create, edit, and manage versioned documents through a clean browser-based interface. The project follows a standard client-server architecture and is split into two repositories:
 
 - **[filepilot-backend](https://github.com/filepilot/filepilot-backend)** — Spring Boot REST API (Java)
